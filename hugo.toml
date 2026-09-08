@@ -104,3 +104,8 @@ enableEmoji = true
           identifier = "licence"
           name = "Licence"
           url = "/licence"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
