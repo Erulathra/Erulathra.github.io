@@ -64,3 +64,6 @@ programmer[^1].
   * low-level systems programming
   * GPU architecture
   * CPU architecture
+ 
+## Contact
+LinkedIn: [Link](https://www.linkedin.com/in/szymon-swiedrych/)
