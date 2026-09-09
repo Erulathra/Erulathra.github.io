@@ -20,7 +20,7 @@ I stared studies at Łódź University of Technology in 2020, where
 I attended Video Games and Simulations Technologies speciality. During during my
 studies, I was part of teams that created plenty successful of gamedev related projects.
 The most notable ones participated in ZTGK, and three of them won the main
-prices in three distinguish categories[^0].
+prices in three different categories[^0].
 
 In the mean time, in 2023, I started working at Teyon as an Intern and after
 a successful internship, I was employed as a Junior Generalist Programmer.
@@ -64,6 +64,3 @@ programmer[^1].
   * low-level systems programming
   * GPU architecture
   * CPU architecture
- 
-## Contact
-LinkedIn: [Link](https://www.linkedin.com/in/szymon-swiedrych/)
