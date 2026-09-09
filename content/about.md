@@ -29,7 +29,7 @@ development I was able to get some experience with console porting and graphics
 programming.
 
 The release of the game coincided with my master thesis defence in November 2025,
-and after that I started working full-time as (mostly self-thought) regular graphics
+and after that I started working full-time as (mostly self-taught) regular graphics
 programmer[^1].
 
 [^0]: All of them are listed on the [Portfolio](/portfolio) page.
@@ -48,7 +48,7 @@ programmer[^1].
   * semi-advanced technical-art knowledge
   * `hlsl`
   * `C++`
-* Vulkan (1 year, self-thought)
+* Vulkan (1 year, self-taught)
   * bindless rendering
   * dynamic rendering
   * compute
