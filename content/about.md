@@ -17,13 +17,13 @@ to profiling, optimizing, and of course playing video games.
 ## Experience
 
 I stared studies at Łódź University of Technology in 2020, where
-I attended Video Games and Simulations Technologies speciality. During during my
-studies, I was part of teams that created plenty successful of gamedev related projects.
+I attended Video Games and Simulations Technologies speciality. During my
+studies, I was part of teams that created plenty of successful gamedev related projects.
 The most notable ones participated in ZTGK, and three of them won the main
 prices in three different categories[^0].
 
-In the mean time, in 2023, I started working at Teyon as an Intern and after
-a successful internship, I was employed as a Junior Generalist Programmer.
+In the meantime, in 2023, I started working at Teyon as an Intern and after
+a successful internship, I was employed as a junior generalist programmer.
 During [Rennsport](https://store.steampowered.com/app/2077750/RENNSPORT/)
 development I was able to get some experience with console porting and graphics
 programming.
