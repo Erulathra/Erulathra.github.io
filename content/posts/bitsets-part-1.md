@@ -4,10 +4,11 @@ date = "2026-09-28T19:46:39+02:00"
 author = "Erulathra"
 tags = ["bitset", "dirty-flags", "low-level", "performance"]
 keywords = ["bitset", "dirty-flags"]
-cover = "images/posts/bitset/notepad.png"
 showFullContent = false
 hideComments = false
 +++
+
+![Notepad](images/posts/bitset/notepad.png)
 
 ## An anecdote
 
