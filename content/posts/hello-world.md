@@ -3,11 +3,12 @@ title = "Hello World!"
 date = "2026-09-08T16:24:01+02:00"
 tags = ["first-post", "introduction"]
 keywords = ["introduction", "graphics-programming"]
+cover = "images/posts/hello-world/turbo_vulkan_triangle.png"
+showFullContent = false
+hideComments = false
 +++
 
 # Hello World :wave:
-
-![Triangle](images/posts/hello-world/turbo_vulkan_triangle.png)
 
 Hello, my name is Szymon Świędrych, and I am a Graphics Programmer (or at least
 i pretend to be :sweat_smile:). If You're interested in me (suspicious I guess?),
