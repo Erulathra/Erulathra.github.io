@@ -105,9 +105,9 @@ enableEmoji = true
           name = "Contact"
           url = "/contact"
         [[languages.en.menu.main]]
-          identifier = "licence"
-          name = "Licence"
-          url = "/licence"
+          identifier = "license"
+          name = "License"
+          url = "/license"
 
 
 [caches]

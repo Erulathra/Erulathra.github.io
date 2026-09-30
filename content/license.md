@@ -1,6 +1,6 @@
 +++
 date = '2026-09-08T20:56:10+02:00'
-title = 'About'
+title = 'License'
 +++
 
 MIT NON-AI License
