@@ -7,7 +7,7 @@ title = 'Portfolio'
 
 {{< youtube id=_2Wbn1NnFhI loading=lazy >}}
 
-By the time the biggest project I worked on. I joined the team in the
+This was the biggest project I worked on. I joined the team in the
 middle of the production, and it was the first professional project I
 worked on. Porting this game to current gen consoles was a great opportunity
 to learn how to program on the limited hardware.
@@ -19,7 +19,7 @@ My responsibilities:
 * Graphics programming
 * Porting
 * Game optimization
-* Code maintance
+* Code maintenance
 
 Technology: `Unreal Engine, C++`
 
@@ -32,10 +32,10 @@ Links:
 
 {{< youtube id=hX2uxOp0-x0 loading=lazy >}}
 
-This game grow up from the `Project: InPostors` ZTGK project. During the finals
-we found a publisher ([Cleversan Games](https://cleversan.com/)) and after 1.5 year,
+This game grew up from the `Project: InPostors` ZTGK project. During the finals
+we found a publisher ([Cleversan Games](https://cleversan.com/)) and after 1.5 years,
 our small team managed to release a full game on Steam. Later, the game was ported
-(by the external team) to PS5, Xbox Series and Nintendo Swtich.
+(by the external team) to PS5, Xbox Series and Nintendo Switch.
 
 My responsibilities:
 
@@ -55,9 +55,9 @@ Links:
 
 {{< youtube id=sdw3FfActIw loading=lazy >}}
 
-My personal hobby project. Thanks to it I learned Vulkan API. It grows form
+My personal hobby project. Thanks to it I learned Vulkan API. It grew from
 the window that just shows triangle to the basic ray-query shadows and GPU driven
-culling. This engine acts for me as a playground where I tests different approaches
+culling. This engine acts for me as a playground where I test different approaches
 to solving things. It started as a fully OOP project but after a few months of
 development I decided to change programming paradigm to procedural programming.
 Let's find out where it takes me.
@@ -73,7 +73,7 @@ Links: [Github](https://github.com/Erulathra/TurboVulkan)
 _Project: InPostors_ was created entirely from scratch (not exactly, we used a
 few small libraries, and a big one: GPU Driver :sweat_smile:). This project was
 created for the Project Based Learning course at Łodź University of Technology.
-After a 4 months of the production we showcased it on the ZTGK, and it won the main
+After 4 months of the production we showcased it on the ZTGK, and it won the main
 award (Game Development).
 
 My responsibilities:
@@ -96,7 +96,7 @@ Links:
 This is my first and only VR game. This project also won a main ZTGK award (VR).
 As an only Tech-artist in team I managed to achieve a smooth 90hz experience on
 Quest 2, without sacrificing visual quality (of course I need to also give a
-credit for that achivement to our excellent artists: Robert and Karolina).
+credit for that achievement to our excellent artists: Robert and Karolina).
 
 My responsibilities:
 
@@ -109,15 +109,15 @@ Technology: `Unity, C#`
 Links:
 [Itch](https://erulathra.itch.io/ol)
 
-## Suround Me
+## Surround Me
 
 {{< vimeo id=962482365 loading=lazy >}}
 
 Mobile game (that also works as in a web browser), that won Mobile Games
 main award at the ZTGK competition. Very simple, but also quite addictive.
 
-> **FUN FACT:** We are created web build only due to fact that we don't have ability
-to build IOS package. During the competition we showcased it on the IPhones.
+> **FUN FACT:** We have created a web build only due to the fact that we don't have ability
+to build IOS package. During the competition we showcased it on the iPhones.
 
 My responsibilities:
 
@@ -135,7 +135,7 @@ Links:
 
 This is my first project on Unreal Engine. It was a result of the Project POWER
 initiative at Łódź University of Technology. I was fully _fullstack game developer_
-as our team consists only two programmers.
+as our team consists of only two programmers.
 
 My responsibilities:
 
