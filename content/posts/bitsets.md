@@ -1,9 +1,9 @@
 +++
-title = "A bit(set) of knowledge. [Part 1]"
+title = "A bit(set) of knowledge."
 date = "2026-09-28T19:46:39+02:00"
 author = "Erulathra"
-tags = ["bitset", "dirty-flags", "low-level", "performance"]
-keywords = ["bitset", "dirty-flags"]
+tags = ["performance", "low-level", "C++"]
+keywords = ["bitset", "dirty-flags", "low-level", "performance"]
 showFullContent = false
 hideComments = false
 +++
